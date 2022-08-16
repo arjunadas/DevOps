@@ -8,6 +8,7 @@ git config --global user.email "mail@mail.com"
 
 **GitLab**  
 создать runner
+[https://docs.gitlab.com/runner/register/](https://docs.gitlab.com/runner/register/)
 
 ```
 gitlab-runner register \  
