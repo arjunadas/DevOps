@@ -1,22 +1,22 @@
 # DevOps
 шпаркалка по Linux / Git / GitLab / 
 
-**Linux**  
+**1 Linux**  
 https://github.com/arjunadas/DevOps/blob/main/Linux/README.md
 
-**Docker**  
+**2 Docker**  
 https://github.com/arjunadas/DevOps/blob/main/Docker/README.md
 
-**Docker-Compose**  
+**3 Docker-Compose**  
 https://github.com/arjunadas/DevOps/blob/main/Docker-Compose/README.md
 
-**Zabbix**  
+**4 Zabbix**  
 https://github.com/arjunadas/DevOps/blob/main/Zabbix/README.md
 
-**Ansible**  
+**5 Ansible**  
 https://github.com/arjunadas/DevOps/blob/main/Ansible/README.md
 
-**Redis**  
+**6 Redis**  
 https://github.com/arjunadas/DevOps/blob/main/Redis/README.md
 
 **Git**  
