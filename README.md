@@ -1,5 +1,8 @@
 # DevOps
-шпаркалка по Git / Jenkins / GitLab / 
+шпаркалка по Linux / Git / GitLab / 
+
+**Linux**  
+https://github.com/arjunadas/DevOps/blob/main/Linux/README.md
 
 **Git**  
 задать базовую информацию
