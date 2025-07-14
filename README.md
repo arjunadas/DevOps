@@ -7,6 +7,9 @@ https://github.com/arjunadas/DevOps/blob/main/Linux/README.md
 **Docker**  
 https://github.com/arjunadas/DevOps/blob/main/Docker/README.md
 
+**Docker-Compose**  
+https://github.com/arjunadas/DevOps/blob/main/Docker-Compose/README.md
+
 **Git**  
 задать базовую информацию
 ```
