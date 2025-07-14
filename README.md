@@ -10,6 +10,13 @@ https://github.com/arjunadas/DevOps/blob/main/Docker/README.md
 **Docker-Compose**  
 https://github.com/arjunadas/DevOps/blob/main/Docker-Compose/README.md
 
+
+**Ansible**  
+https://github.com/arjunadas/DevOps/blob/main/Ansible/README.md
+
+**Redis**  
+https://github.com/arjunadas/DevOps/blob/main/Redis/README.md
+
 **Git**  
 задать базовую информацию
 ```
