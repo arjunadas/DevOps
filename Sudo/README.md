@@ -38,6 +38,8 @@ alias sudo='/usr/local/bin/sudo'
 ```
 
 
+из пакетов
+
 ```
 sudo yum install https://…/sudo-1.9.17-2.el7.x86_64.rpm
 ```
